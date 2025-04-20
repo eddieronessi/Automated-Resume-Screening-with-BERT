@@ -1,0 +1,11 @@
+Rank,Resume File,Score,Experience (yrs),Education,Marks (%),Matched Skills,Missing Skills
+1,resume_22.pdf,0.5783396,3,MASTER,78,"['power bi', 'r', 'sql']",['python']
+2,resume_21.pdf,0.5156132,5,BACHELOR,85,"['python', 'r', 'sql']",['power bi']
+3,Resume_15.pdf,0.5056139,2,UNKNOWN,80,"['r', 'sql']","['python', 'power bi']"
+4,Resume_4.pdf,0.4932318,2,BCA,85,"['python', 'r']","['power bi', 'sql']"
+5,Resume_12.pdf,0.46384388,2,BCA,84,"['r', 'sql']","['python', 'power bi']"
+6,Resume_2.pdf,0.4552459,2,UNKNOWN,86,['r'],"['python', 'power bi', 'sql']"
+7,resume_24.pdf,0.43271425,6,MBA,88,['r'],"['python', 'power bi', 'sql']"
+8,Resume_10.pdf,0.4307695,2,UNKNOWN,83,['r'],"['python', 'power bi', 'sql']"
+9,Resume_20.pdf,0.41363668,2,UNKNOWN,85,"['r', 'sql']","['python', 'power bi']"
+10,resume_23.pdf,0.40946138,2,BACHELOR,80,['r'],"['python', 'power bi', 'sql']"
